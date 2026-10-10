@@ -20,6 +20,7 @@ docs/
 │   ├── network.md              网络请求与调试
 │   ├── security.md             安全、密钥、签名
 │   ├── media.md                音视频与图像
+│   ├── platform-clients.md     内容平台客户端（视频站/社交/IM）
 │   └── shell-and-prompt.md     Shell、提示符、历史
 ├── tools/         深度页（每个工具有独立文件）
 └── meta/          规则文件（本文件、收录标准）
@@ -33,6 +34,8 @@ docs/
 | 工具主要是终端复用/窗口管理 | `shell-and-prompt.md` |
 | Git 的 TUI 前端 | `dev-workflow.md` |
 | 容器/K8s 的 TUI 前端 | `cloud-and-containers.md` |
+| 针对特定内容平台的客户端（带登录态、拉详情/字幕/动态） | `platform-clients.md` |
+| 只做通用转码/压缩，不关心平台 | `media.md` |
 | 既能看文件又能搜内容 | 以**主要用途**为准，跨类时在两个文件各出现一次并在 `Tags` 注明 |
 | 已经变成「平台」的 CLI | 仍按**命令行能做什么**分类，不按公司分类 |
 
@@ -46,7 +49,7 @@ docs/
   - 语言/生态：`rust` `go` `python` `node` `c` `shell`
   - 交互形态：`tui` `repl` `one-shot` `daemon`
   - 能力：`pipe-friendly` `json-output` `cross-platform` `offline` `plugin-system`
-  - 领域：`git` `grep` `k8s` `http` `media` `security` `ai` `mcp`
+  - 领域：`git` `grep` `k8s` `http` `media` `security` `ai` `mcp` `platform-client`
   - 状态：`archived` `proprietary` `telemetry` `requires-login`
 - 标签全小写（例外：`k8s`、`mcp`、`ai` 本身就是小写缩写）。
 - 不要写 `fast`、`awesome`、`best` 这类主观标签 —— 那是排序的职责。

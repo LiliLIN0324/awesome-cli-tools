@@ -43,6 +43,7 @@ A curated, bilingual (zh-CN / en) documentation hub for command-line tools.
 | 🌐 通用 · 网络与调试 | [docs/general/network.md](docs/general/network.md) | HTTP 客户端、DNS/DNS-over-HTTPS、抓包 |
 | 🔐 通用 · 安全与加密 | [docs/general/security.md](docs/general/security.md) | 密钥管理、扫描、签名与哈希 |
 | 🎬 通用 · 媒体处理 | [docs/general/media.md](docs/general/media.md) | 音视频转码、图片压缩、终端截图 |
+| 🧩 通用 · 内容平台客户端 | [docs/general/platform-clients.md](docs/general/platform-clients.md) | B 站等平台的命令行客户端，带登录态与结构化输出 |
 | 🐚 通用 · Shell 与提示符 | [docs/general/shell-and-prompt.md](docs/general/shell-and-prompt.md) | 提示符、目录跳转、历史记录、现代 Shell |
 
 ### 指南与规范
@@ -66,6 +67,7 @@ A curated, bilingual (zh-CN / en) documentation hub for command-line tools.
 | 在终端里让 AI 改代码 | [coding-agents](docs/ai-cli/coding-agents.md) |
 | 把命令输出直接喂给模型 | [chat-and-llm](docs/ai-cli/chat-and-llm.md) |
 | 完全离线跑模型 | [local-inference](docs/ai-cli/local-inference.md) |
+| 在终端里刷视频站 / 导出字幕 | [platform-clients](docs/general/platform-clients.md) |
 | 替换 `grep` + `find` + `ls` | [search](docs/general/search.md) + [viewers](docs/general/viewers.md) |
 | 处理一大坨 JSON / CSV | [text-and-data](docs/general/text-and-data.md) |
 | 少敲几百次 `cd` 和 `git` | [shell-and-prompt](docs/general/shell-and-prompt.md) |

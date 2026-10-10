@@ -79,6 +79,7 @@ vhs demo.tape
 
 ## 相关 / See also
 
+- [内容平台客户端](platform-clients.md) —— 取平台内容（详情/字幕/音频）而不做转码
 - [文本与数据处理](text-and-data.md) —— `ffprobe` 输出的 JSON 用 `jq` 处理
 - [查看与预览](viewers.md) —— 处理结果怎么看
 - [云与容器](cloud-and-containers.md) —— 在容器里隔离不可信文件的处理

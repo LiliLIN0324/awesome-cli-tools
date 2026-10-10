@@ -45,6 +45,7 @@ Scope covers two worlds: **AI / LLM CLIs** and **general-purpose productivity CL
 | 🌐 General · Network & debugging | [docs/general/network.md](docs/general/network.md) | HTTP clients, DNS, packet capture |
 | 🔐 General · Security & crypto | [docs/general/security.md](docs/general/security.md) | Secret management, scanning, signing, hashing |
 | 🎬 General · Media | [docs/general/media.md](docs/general/media.md) | Transcoding, image compression, terminal recording |
+| 🧩 General · Platform clients | [docs/general/platform-clients.md](docs/general/platform-clients.md) | Terminal clients for content platforms (auth-aware, structured output) |
 | 🐚 General · Shell & prompt | [docs/general/shell-and-prompt.md](docs/general/shell-and-prompt.md) | Prompts, directory jumping, history, modern shells |
 
 ### Guides & conventions
@@ -66,6 +67,7 @@ Scope covers two worlds: **AI / LLM CLIs** and **general-purpose productivity CL
 | Let an AI edit code from my terminal | [coding-agents](docs/ai-cli/coding-agents.md) |
 | Pipe command output into a model | [chat-and-llm](docs/ai-cli/chat-and-llm.md) |
 | Run models fully offline | [local-inference](docs/ai-cli/local-inference.md) |
+| Browse a video site / export subtitles | [platform-clients](docs/general/platform-clients.md) |
 | Replace `grep` + `find` + `ls` | [search](docs/general/search.md) + [viewers](docs/general/viewers.md) |
 | Wrangle a pile of JSON / CSV | [text-and-data](docs/general/text-and-data.md) |
 | Type `cd` and `git` far less | [shell-and-prompt](docs/general/shell-and-prompt.md) |

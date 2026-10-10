@@ -3,7 +3,7 @@
 > 不依赖模型、不要求联网的日常效率工具。挑选标准只有一条：
 > **能不能被组合进管道**。
 
-## 九个子分类
+## 十个子分类
 
 | 子分类 | 一句话 | 代表工具 |
 | --- | --- | --- |
@@ -15,6 +15,7 @@
 | [网络与调试](./network.md) | HTTP、DNS、抓包 | curl, xh, hurl |
 | [安全与加密](./security.md) | 密钥、扫描、签名 | age, sops, gitleaks |
 | [媒体处理](./media.md) | 音视频与图片 | ffmpeg, oxipng, yt-dlp |
+| [内容平台客户端](./platform-clients.md) | 访问视频站/社交/IM 的 CLI | bilibili-cli |
 | [Shell 与提示符](./shell-and-prompt.md) | 提示符、跳转、历史 | starship, zoxide, tmux |
 
 ## 通用注意事项

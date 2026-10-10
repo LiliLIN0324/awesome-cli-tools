@@ -6,6 +6,10 @@
 
 ## [Unreleased]
 
+### Added
+- 新增分类 [docs/general/platform-clients.md](docs/general/platform-clients.md)
+  （内容平台客户端），首个条目：`bilibili-cli`
+
 ### Planned
 - 补齐 `docs/general/media.md` 与 `docs/general/security.md` 的深度页
 - 增加 Windows / PowerShell 专属条目分区
