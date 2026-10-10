@@ -1,0 +1,21 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# 脚本产物 / Script output
+.link-check-report.json
+
+# 编辑器 / Editors
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+*.swp
+*~
+
+# 系统 / OS
+.DS_Store
+Thumbs.db
+desktop.ini

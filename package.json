@@ -1,0 +1,18 @@
+{
+  "name": "awesome-cli-tools",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Curated bilingual (zh-CN / en) documentation hub for command-line tools",
+  "license": "CC0-1.0",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "validate": "node scripts/validate-entries.mjs",
+    "stats": "node scripts/validate-entries.mjs --stats",
+    "check:links": "node scripts/check-links.mjs",
+    "set-owner": "node scripts/set-owner.mjs",
+    "test": "node scripts/validate-entries.mjs"
+  }
+}

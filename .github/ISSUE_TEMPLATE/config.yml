@@ -1,0 +1,10 @@
+blank_issues_enabled: false
+# 注意：首次使用前把 LiliLIN0324 替换成真实组织/用户名
+# NOTE: replace LiliLIN0324 with your real org/user before first use
+contact_links:
+  - name: 贡献指南 / Contributing guide
+    url: https://github.com/LiliLIN0324/awesome-cli-tools/blob/main/CONTRIBUTING.md
+    about: 直接开 PR 比开 issue 更快，请先阅读贡献指南
+  - name: 收录标准 / Inclusion criteria
+    url: https://github.com/LiliLIN0324/awesome-cli-tools/blob/main/docs/meta/criteria.md
+    about: 什么工具会被收录、什么会被拒绝
