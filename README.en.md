@@ -45,7 +45,7 @@ Scope covers two worlds: **AI / LLM CLIs** and **general-purpose productivity CL
 | 🌐 General · Network & debugging | [docs/general/network.md](docs/general/network.md) | HTTP clients, DNS, packet capture |
 | 🔐 General · Security & crypto | [docs/general/security.md](docs/general/security.md) | Secret management, scanning, signing, hashing |
 | 🎬 General · Media | [docs/general/media.md](docs/general/media.md) | Transcoding, image compression, terminal recording |
-| 🧩 General · Platform clients | [docs/general/platform-clients.md](docs/general/platform-clients.md) | Terminal clients for content platforms (auth-aware, structured output) |
+| 🧩 General · Platform clients | [docs/general/platform-clients.md](docs/general/platform-clients.md) | Terminal clients for platforms like Feishu/Bilibili (auth-aware, structured output) |
 | 🐚 General · Shell & prompt | [docs/general/shell-and-prompt.md](docs/general/shell-and-prompt.md) | Prompts, directory jumping, history, modern shells |
 
 ### Guides & conventions

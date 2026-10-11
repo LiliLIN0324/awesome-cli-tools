@@ -63,5 +63,6 @@ docker run --rm -it --network none -v "$PWD":/work -w /work node:20
 
 - [编程智能体](../ai-cli/coding-agents.md) —— 这些运行时的消费方
 - [本地推理](../ai-cli/local-inference.md) —— 路由的常见目标
+- [内容平台客户端](../general/platform-clients.md) —— 给 Agent 装上手之后，用它去操作真实平台（如 `lark-cli`）
 - [云与容器](../general/cloud-and-containers.md) —— 隔离执行环境
 - [安全与加密](../general/security.md) —— 密钥与凭据管理

@@ -9,6 +9,8 @@
 ### Added
 - 新增分类 [docs/general/platform-clients.md](docs/general/platform-clients.md)
   （内容平台客户端），首个条目：`bilibili-cli`
+- 收录 `lark-cli`（飞书/Lark 官方 CLI，MIT），并补充两个工具的
+  授权流程、风险分级（`read`/`write`/`high-risk-write`）与 `--dry-run` 注意事项
 
 ### Planned
 - 补齐 `docs/general/media.md` 与 `docs/general/security.md` 的深度页

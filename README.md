@@ -43,7 +43,7 @@ A curated, bilingual (zh-CN / en) documentation hub for command-line tools.
 | 🌐 通用 · 网络与调试 | [docs/general/network.md](docs/general/network.md) | HTTP 客户端、DNS/DNS-over-HTTPS、抓包 |
 | 🔐 通用 · 安全与加密 | [docs/general/security.md](docs/general/security.md) | 密钥管理、扫描、签名与哈希 |
 | 🎬 通用 · 媒体处理 | [docs/general/media.md](docs/general/media.md) | 音视频转码、图片压缩、终端截图 |
-| 🧩 通用 · 内容平台客户端 | [docs/general/platform-clients.md](docs/general/platform-clients.md) | B 站等平台的命令行客户端，带登录态与结构化输出 |
+| 🧩 通用 · 内容平台客户端 | [docs/general/platform-clients.md](docs/general/platform-clients.md) | 飞书、B 站等平台的命令行客户端，带登录态与结构化输出 |
 | 🐚 通用 · Shell 与提示符 | [docs/general/shell-and-prompt.md](docs/general/shell-and-prompt.md) | 提示符、目录跳转、历史记录、现代 Shell |
 
 ### 指南与规范
