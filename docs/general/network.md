@@ -35,6 +35,7 @@
 | [grpcurl](https://github.com/fullstorydev/grpcurl) | 像 curl 一样调用 gRPC 服务，支持反射获取 schema | Invoke gRPC services like curl, with server reflection support | `go`, `grpc`, `api` | MIT |
 | [hey](https://github.com/rakyll/hey) | HTTP 压测工具，报告延迟分布与状态码统计 | HTTP load generator reporting latency distribution and status codes | `go`, `http`, `benchmark` | Apache-2.0 |
 | [bandwhich](https://github.com/imsnif/bandwhich) | 按进程查看实时带宽占用，定位「谁在偷跑流量」 | Shows live bandwidth usage per process to find the traffic hog | `rust`, `network`, `tui` | MIT |
+| [Kilobat CLI](https://github.com/seifip/kilobat-cli) | ⚠️ 平台限定：macOS 主机网络诊断，支持 JSON 输出 | ⚠️ Platform-limited: macOS host network diagnostics with JSON output | `swift`, `network`, `diagnostics`, `macos` | GPL-3.0-only |
 
 ## 组合用法 / Combinations
 
